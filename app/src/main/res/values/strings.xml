@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MYRA</string>
+    <string name="accessibility_service_description">MYRA AI Assistant Accessibility Service empowers voice commands to navigate, scroll, click, and interact with accessible screen elements for Amit.</string>
+</resources>

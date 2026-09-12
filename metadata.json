@@ -1,0 +1,6 @@
+{
+  "name": "MYRA AI Assistant",
+  "description": "Futuristic Hindi AI Voice and Phone Assistant with running RGB edge light, accessibility automation, and personalized experience for Amit",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
